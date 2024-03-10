@@ -7,7 +7,8 @@ Este é um bot do Telegram que utiliza a API da OpenAI para gerar respostas a pe
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-username/Telegram-OpenAI-Bot.git
+   git clone FabioSilva11/telebot.git
+ 
    ```
 
 2. Instale as dependências:
