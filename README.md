@@ -7,7 +7,7 @@ Este é um bot do Telegram que utiliza a API da OpenAI para gerar respostas a pe
 1. Clone este repositório:
 
    ```bash
-   [git clone FabioSilva11/telebot.git](https://github.com/FabioSilva11/telebot.git)
+   https://github.com/FabioSilva11/telebot.git
  
    ```
 
